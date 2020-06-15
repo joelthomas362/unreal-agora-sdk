@@ -1,0 +1,6 @@
+[submodule "Blueprints Approach/Plugins/AgoraPlugin"]
+	path = "Blueprints Approach/Plugins/AgoraPlugin"
+	url = https://gitlab.nixdev.co/agora.io/agora.io-ue-plugin
+[submodule "C++ Approach/Plugins/AgoraPlugin"]
+	path = "C++ Approach/Plugins/AgoraPlugin"
+	url = https://gitlab.nixdev.co/agora.io/agora.io-ue-plugin
